@@ -1,1 +1,3 @@
-# Test Repository\n\nThis is a test file for claude-auto-commit
+# Test Repository
+
+This is a test file for claude-auto-commit
